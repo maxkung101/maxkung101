@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maxkung101
 - 👀 I’m interested in gaming.
-- 🌱 I’m currently learning C#.
+- 🌱 I’m currently learning C# and UX design.
 - 💞️ I’m looking to collaborate on fan mail games.
 - 📫 maxkung06@gmail.com
 
