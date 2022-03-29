@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @maxkung101
+- :world_map: I live in the United States.
 - 👀 I’m interested in gaming.
 - 🌱 I’m currently learning C# and UX design.
 - 💞️ I’m looking to collaborate on fan mail games.
